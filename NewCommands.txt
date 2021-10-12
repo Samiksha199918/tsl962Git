@@ -1,0 +1,5 @@
+git clone https://github.com/Samiksha199918/tsl962Git.git
+git add -A
+git commit -m "Commands File"
+git push -u origin master
+git pull origin master
